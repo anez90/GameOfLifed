@@ -1,0 +1,6 @@
+C:\Users\robot\documents\visual studio 2015\Projects\Traning\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\robot\documents\visual studio 2015\Projects\Traning\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\robot\documents\visual studio 2015\Projects\Traning\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\robot\documents\visual studio 2015\Projects\Traning\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\robot\documents\visual studio 2015\Projects\Traning\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\robot\documents\visual studio 2015\Projects\Traning\GameOfLife\obj\Debug\GameOfLife.pdb
